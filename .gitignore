@@ -7,3 +7,5 @@
 *.mat
 *.pdf
 *~
+#don’t want to commit this data files
+export_mvmt_data_for_psths.times
