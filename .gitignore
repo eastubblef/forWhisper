@@ -1,0 +1,9 @@
+*.ns[45]
+*.nev
+*.csv
+*.fig
+*.prm
+*.ai
+*.mat
+*.pdf
+*~
